@@ -14,7 +14,8 @@ dependencies:
   cupertino_icons: ^1.0.0
   html: ^0.14.0+4
   http: ^0.12.2
-  flutter_chat_types: ^1.1.1
+  flutter_chat_types:
+    git: https://github.com/Vaibhavsaharan/flutter_chat_types-1.1.1.git
   flutter_linkify: ^4.0.2
   linkify: ^3.0.0
   meta: ^1.2.4
